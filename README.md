@@ -1,4 +1,3 @@
-Canteen Management System (CMS)
 The UBIT Canteen Management System (CMS) is a Python-based application designed to streamline canteen operations for both shopkeepers and students. Built with Tkinter for a user-friendly graphical interface and SQLite for secure data management, this system simplifies menu handling, order processing, and billing.
 
 Features:
